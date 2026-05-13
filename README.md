@@ -89,14 +89,6 @@ Importância da visualização na EDA · Gráfico de barras · Gráfico de pizza
 **Opção A:** Dados ausentes · Remoção de inconsistências · Padronização de formatos · Tratamento de outliers · Transformação de variáveis  
 **Opção B:** Introdução ao ML · Método Holdout · Classificação · Regressão · Avaliação de modelos e métricas
 
-### Módulo 6 — A definir
-
-Conteúdo a ser definido pela equipe responsável.
-
-### Módulo 7 — A definir
-
-Conteúdo a ser definido pela equipe responsável.
-
 ---
 
 ## 🐍 Versão do Python
@@ -128,8 +120,6 @@ Ou por módulo:
 | 3      | `pandas`, `numpy`, `scipy`        |
 | 4      | `matplotlib`, `seaborn`           |
 | 5      | `pandas`, `numpy`, `scikit-learn` |
-| 6      | A definir                         |
-| 7      | A definir                         |
 
 ---
 
@@ -147,19 +137,5 @@ python modulo_X/codigos/nome_do_arquivo.py
 pip install notebook
 jupyter notebook modulo_X/codigos/nome_do_notebook.ipynb
 ```
-
----
-
-## 📋 Critérios de Avaliação
-
-| Critério                            | Peso |
-| ----------------------------------- | ---- |
-| Clareza conceitual                  | 25%  |
-| Qualidade técnica do código         | 25%  |
-| Qualidade da apresentação no vídeo  | 20%  |
-| Organização do repositório          | 15%  |
-| Aplicação prática e análise crítica | 15%  |
-
----
 
 _Projeto extensionista — UNIFOR, 2026. Repositório público conforme exigência da disciplina T326._
