@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Compreender como selecionar partes específicas de um DataFrame, tais como linhas, colunas ou células individuais. Ao final deste módulo, o participante conseguirá acessar e extrair com precisão qualquer dado contido em um DataFrame.
+Compreender como selecionar partes específicas de um DataFrame, tais como linhas, colunas ou células individuais. Ao final desta aula, o participante conseguirá acessar e extrair com precisão qualquer dado contido em um DataFrame.
 
 ## Conteúdos
 

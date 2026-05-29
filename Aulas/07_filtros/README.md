@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Ensinar como filtrar dados utilizando condições lógicas e consultas flexíveis. Ao final deste módulo, o participante conseguirá extrair subconjuntos específicos de dados que atendam a múltiplos critérios (ex: filtrar clientes de uma determinada região com compras acima de um valor).
+Ensinar como filtrar dados utilizando condições lógicas e consultas flexíveis. Ao final desta aula, o participante conseguirá extrair subconjuntos específicos de dados que atendam a múltiplos critérios (ex: filtrar clientes de uma determinada região com compras acima de um valor).
 
 ## Conteúdos
 

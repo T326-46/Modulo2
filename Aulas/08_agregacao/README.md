@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Compreender como calcular estatísticas resumidas de um DataFrame e como agrupar dados para análises comparativas. Ao final deste módulo, o participante conseguirá computar médias, somas, contagens e outras métricas estatísticas segmentadas por grupos.
+Compreender como calcular estatísticas resumidas de um DataFrame e como agrupar dados para análises comparativas. Ao final desta aula, o participante conseguirá computar médias, somas, contagens e outras métricas estatísticas segmentadas por grupos.
 
 ## Conteúdos
 

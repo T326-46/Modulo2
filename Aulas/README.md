@@ -14,7 +14,7 @@ Abaixo estão os links para o material didático e conteúdo de cada aula:
 | **02** | Pandas Series | [Acessar ➡️](02_series/README.md) |
 | **03** | Pandas DataFrames | [Acessar ➡️](03_dataframe/README.md) |
 | **04** | Leitura de Arquivos (CSV, Excel) | [Acessar ➡️](04_arquivos/README.md) |
-| **05** | Tipos de Dados no Pandas | [Acessar ➡️](05_tipos/README.md) |
+| **05** | Renomeação de Colunas no Pandas | [Acessar ➡️](05_renomeacao/README.md) |
 | **06** | Seleção de Dados | [Acessar ➡️](06_selecao/README.md) |
 | **07** | Filtros e Consultas | [Acessar ➡️](07_filtros/README.md) |
 | **08** | Agregações e Agrupamentos | [Acessar ➡️](08_agregacao/README.md) |

@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Introduzir a manipulação de dados tabulares utilizando a biblioteca Pandas. Ao final deste módulo, o participante será capaz de compreender o tipo de dado que existe nas linhas e colunas de um Objeto Pandas.
+Introduzir a manipulação de dados tabulares utilizando a biblioteca Pandas. Ao final desta aula, o participante será capaz de compreender o tipo de dado que existe nas linhas e colunas de um Objeto Pandas.
 
 ## Conteúdos
 

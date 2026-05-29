@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Compreender como ordenar DataFrames, tratar índices e renomear colunas para preparar os dados para relatórios finais ou visualizações. Ao final deste módulo, o participante saberá organizar visualmente e estruturar qualquer base de dados.
+Compreender como ordenar DataFrames, tratar índices e renomear colunas para preparar os dados para relatórios finais ou visualizações. Ao final desta aula, o participante saberá organizar visualmente e estruturar qualquer base de dados.
 
 ## Conteúdos
 

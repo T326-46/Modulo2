@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Mostrar fundamentos e técnicas iniciais de como ler csvs ou arquivos excel e torná-los dataframes.
+Mostrar fundamentos e técnicas iniciais de como ler csvs ou arquivos excel e torná-los dataframes. Ao final desta aula o participante será de ler csvs e torná-los objetos Pandas.
 
 ## Conteúdos
 
@@ -17,5 +17,5 @@ Extremamente necessário visto que muitas fontes de dados modernas estão em .cs
 <div align="right">
   <a href="../03_dataframe/README.md"><kbd>⬅️ Anterior</kbd></a>
   <a href="../README.md"><kbd>🏠 Aulas</kbd></a>
-  <a href="../05_tipos/README.md"><kbd>Próxima Aula ➡️</kbd></a>
+  <a href="../05_renomeacao/README.md"><kbd>Próxima Aula ➡️</kbd></a>
 </div>

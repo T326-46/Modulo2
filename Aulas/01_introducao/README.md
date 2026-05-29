@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Apresentar os conceitos gerais da área de Ciência de Dados e Python. Ao final deste módulo, o participante será capaz de compreender quais as principais definições e conceitos em ciência de dados com python, e  o conhecimento sobre a principal ferramenta: pandas.
+Apresentar os conceitos gerais da área de Ciência de Dados e Python. Ao final desta aula, o participante será capaz de compreender quais as principais definições e conceitos em ciência de dados com python, e  o conhecimento sobre a principal ferramenta: pandas.
 
 ## Conteúdos
 
